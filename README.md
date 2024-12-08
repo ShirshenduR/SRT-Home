@@ -1,7 +1,8 @@
 # SRT-Home
 cs50-homepage project
 <br>
-<big>**Specification**</big>
+<big>**Specification :**</big>
+<br>
 Implement in your homepage directory a website that must:
 
 *   Contain at least four different .html pages, at least one of which is index.html (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
