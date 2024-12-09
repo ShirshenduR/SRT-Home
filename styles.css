@@ -1,0 +1,67 @@
+.mono{
+    font-family: "Share Tech Mono", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .share-tech-regular {
+    font-family: "Share Tech", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+  }
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}  
+html,body{
+    height:100%;
+    width: 100%;
+}
+.doto{
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "ROND" 0;
+      font-size: 80px;
+    padding: 20px;
+    color:rgb(234, 240, 65);
+  }
+  .navi {
+    display: flex;
+    justify-content: center; 
+    gap: 30px; 
+    padding: 10px 5px;
+    background-color: #232a81; 
+}
+
+.navi a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.navi a p {
+    margin: 0;
+    font-size: 20px;
+}
+
+.navi a:hover p {
+    color: #c2f616;
+    transition: color 0.3s ease;
+}
+.container{
+    display: flex;
+    justify-content: left;
+    padding: 8px;
+    background-color: #120b46;
+}
+.image{
+    margin:0;
+    padding:8px;
+    position: relative;
+    bottom:1px;
+    background-color: rgb(255, 255, 10);
+    border-radius: 150px;
+    
+}
